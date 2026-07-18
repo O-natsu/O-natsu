@@ -32,23 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/O-natsu/O-natsu/master/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/O-natsu/O-natsu/master/profile-summary-card-output/discord_old_blurple/3-stats.svg)
-```
-
-    
